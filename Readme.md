@@ -7,3 +7,5 @@
     7.forwardref
     8.ErrorBoundaries
     9.code Splitting 
+    10.useReducer
+    11.useContext or useReducer
