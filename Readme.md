@@ -16,3 +16,4 @@
     16.Sidebar Drawer
     17. navbar Created
     18.Slick-Carousel slider
+    19 react mail
