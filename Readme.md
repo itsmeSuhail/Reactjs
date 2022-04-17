@@ -17,3 +17,6 @@
     17. navbar Created
     18.Slick-Carousel slider
     19 react mail
+    20 react jest
+        help to create test cases
+          to test component functionality
